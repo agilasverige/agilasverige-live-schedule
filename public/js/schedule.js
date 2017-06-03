@@ -20,10 +20,10 @@ function loadJson(url, onSuccess, onError) {
 function find(schedule, now) {
     for (var i = 0; i < schedule.length; i++) {
         if (now > Date.parse(schedule[i].start) && now < Date.parse(schedule[i].stop)) {
-            return schedule[i];
+            return i;
         }
     }
-    return null;
+    return -1;
 }
 
 function update(schedule) {
@@ -31,8 +31,9 @@ function update(schedule) {
     const now = Date.parse('2017-06-03T09:17:00Z');
     console.log("now: " + now);
 
-    const entry = find(schedule, now);
-    if (entry) {
+    const index = find(schedule, now);
+    if (index >= 0) {
+        const entry = schedule[index];
         document.querySelector("#space .title").innerHTML = entry.space.title;
         document.querySelector("#space .speaker").innerHTML = entry.space.speaker;
 
