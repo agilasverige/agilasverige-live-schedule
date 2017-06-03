@@ -3,7 +3,6 @@ const app = express();
 
 app.use(express.static('public'))
 
-
 app.get('/api/schedule', function (req, res) {
   function toObject(row) {
     function parseTime(s) {
@@ -31,20 +30,11 @@ app.get('/api/schedule', function (req, res) {
   var input = fs.createReadStream('data/2017.csv');
   input
     .pipe(csv.parse())
-    .pipe(csv.transform(function(record) {
-      //console.log(record);
-      //return record.map(function(value) {
-      //  return value;
-      //});
-      return toObject(record);
-    }))
+    .pipe(csv.transform(toObject))
     .pipe(JSONStream.stringify())
-    //.pipe(csv.stringify())
-    //.pipe(process.stdout);)
     .pipe(res);
 });
 
-
 app.listen(3000, function () {
-  console.log('Example app listening on port 3000!')
+  console.log('Listening on port 3000. http://localhost:3000')
 });
