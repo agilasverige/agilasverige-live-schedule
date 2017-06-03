@@ -1,0 +1,15 @@
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 18pt;
+}
+.title {
+    font-size: x-large;
+}
+.speaker {
+    color: darkgray;
+}
+.row {
+    width: 100%;
+    height: 50%;
+}
+
