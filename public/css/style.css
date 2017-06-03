@@ -2,6 +2,15 @@ body {
     color: black;
     font-family: Tahoma, Geneva, sans-serif;
 }
+.striped {
+    background: repeating-linear-gradient(
+        45deg,
+        #aa1d85,
+        #aa1d85 20px,
+        #b7b7b7 20px,
+        #b7b7b7 40px
+    );
+}
 .next-up {
     font-size: normal;
 }
@@ -15,7 +24,10 @@ body {
 }
 .row {
     width: 100%;
-    height: 50%;
+    height: 45%;
+}
+.tile {
+    background: white;
 }
 .center {
     text-align: center;
@@ -26,7 +38,7 @@ body {
 }
 
 .accent {
-    color: #FF2BC7;;
+    color: #FF2BC7;
 }
 .uppercase {
     text-transform: uppercase;
