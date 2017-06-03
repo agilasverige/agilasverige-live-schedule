@@ -4,8 +4,12 @@
   "description": "Simple web app to display live schedule",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/.bin/istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- -R spec"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^3.4.2"
+  }
 }
