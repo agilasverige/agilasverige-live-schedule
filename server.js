@@ -9,7 +9,7 @@ app.get('/api/schedule', function (req, res) {
     function parseTime(s) {
       const parts = s.split(':');
       const now = new Date();
-      now.setHours(parts[0], parts[1]);
+      now.setHours(parts[0], parts[1], 0, 0);
       return now;
     }
 

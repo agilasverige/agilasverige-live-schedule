@@ -1,0 +1,67 @@
+``````,,,,
+Tid,Spår 1 - SPACE,Talare,Spår 2 - TAB,Talare
+08:00-09:00,Frukost,,,
+09:00-09:10,Intro till konferensen,,-,
+09:12-09:22,Användbara lärdom från 20 år av medarbetarstyrning,Karin Tenelius,Funktionell frontend med Elm,Jon Gyllensvärd
+09:24-09:34,Vitala få. Användbara många.,Staffan Nöteberg,Care & Growth - Agilt ledarskap med Tuff Omsorg,Anna Pucar Rimhagen
+09:36-09:46,Leva och leverera med depressioner,Thom Persson,Botten upp Ledarskapsutvärdering,Andreas Tael
+09:48-09:58,Utmattad Agil coach ,Isabelle Svärd,Oemotståndligt motstånd,Bodil Björnberg
+09:58-10:20,Rast,,,
+10:20-10:30,Same same but different - Agil IT i Lean lastbilsproduktion,Joakim Eriksson,Varför vi inte längre självorganiserar oss varje månad,Johan Hansson
+10:32-10:42,Fake Feedback. Sad!,Joakim Manding Holm,Ett år av mobprogrammering - tips & tricks,Tommy Tynjä
+10:44-10:54,Anonyma Starter Tolv Steg Program,Gregory McCabe,Zero Velocity,Tomas Karlsson
+10:56-11:06,Utifrån och in - TDD för bättre design och tidigare feedback,Thomas Nilefalk,What we learned from removing all middle managers,Viktor Cessan
+11:08-11:18,”Tech-sprinten”: Hur vi försökte lösa beroenden - och snubblade över en innovationshubb,Rickard Westman,6 steg till perfekta 30-minuters möten,Jimmy Sjölund
+11:18-11:28,Rast,,,
+11:28-11:38,"Frankenstein metoden - Om att blanda tankar från Scrum, Lean Startup och Google Design Sprint för app utveckling",Daniel Hilmersson,Sluta skriv krav,Dennis Liljedahl
+11:40-11:50,Feedback? - Ja tack!,Matti Klasson,Renovera eller bygga nytt?,Petter Wigle
+11:52-12:02,Scaling culture at Kambi,Therése Janlén Ressel,Lärande i fokus,Måns Sandström
+12:02-13:00,Lunch,,,
+13:00-13:40,Open Space och Workshop Introduktion,,,
+13:40-14:25,Open Space Pass 1,,,
+,Workshop: Vad är ett rättmätigt maktförhållande? - Tor 2,Anna Pucar Rimhagen,Workshop: Escape the feature factory and getting in to T-Shape - Tor 1,Mia Kolmodin och Per Lundholm
+,,,Workshop: Mobblära del 1 - Loke 2,Lennart Fridén
+14:25-14:40,Rast,,,
+14:40-15:25,Open Space Pass 2,,,
+,Workshop: How to integrate innovation in agile teams WoW and develop and Innovative culture - Loke 1,Irfan Khalid,Workshop: Fokusområden för en agil ledare - Tor 1,David Barnholdt och Therése Ahlberg
+,Workshop: Visual Facilitation - Tor 2,Edward Dahllöf,Workshop: Mobblära del 2 - Loke 2,Lennart Fridén
+15:25-15:40,Fika,,,
+15:40-15:50,Skapa och vårda väl fungerade team,Yassal Sundman,Storrumsplanering: vad är poängen och hur funkar det?,Jan Grape
+15:52-16:02,5 konkreta tips till en agil företagskultur,"Mattias Lönnqvist, Homeira Tourandaz",Brainy Days - innovationsracet som funkar.,Björn Lindqvist
+16:04-16:14,A journey from backlog to missions for Candy Crush,Mattias Karlsson,"Almar, Supermodeller och andra suspekta Typer",Kristoffer Roupé
+16:16-16:26,Att lyckas med distribuerade team,Petrine Herbai & Fredrik Söderberg,Stating the obvious - en presentation om självklarheter,Anneli Olsen
+16:26-16:30,Återsamling,,,
+16:30-16:45,Throwback Thursday - Fishbowl,,-,
+16:45-17:00,Back To The Future - Fishbowl,,-,
+17:00-17:05,Debrief dag 1,,-,
+18:00,Middag och mingel,,,
+Fredag    #agilasverige17    info@agilasverige.se,,,,
+Tid,Spår 1 - SPACE,Talare,Spår 2 - TAB,Talare
+09:00-09:10,Retro: Hur ett fixed mindset nästan fick mig att ge upp på mjukvaruutveckling,Ulrika Malmgren,"Retro: Fel, fel, fel! (""felyta"")",Joakim Ohlrogge
+09:12-09:22,Retro: Krydda din demo med rollspel,Adam Killander,"Retro: Skäggsekunder, ljusår och teamminuter",Daniel Brolund
+09:24-09:34,"Treat infra as product, not as plumbing",Karin Björkén,Från förstudie-marathon till design sprint,Håkan Kleijn
+09:36-09:46,Kubernetes - Produktiv Docker,Fredrik Viljesjö,Varför vi ska lära känna varandra i ett team,Stefan Norinder
+09:48-09:58,"Making DevOps in the NoOps world: grow DevOps ambassadors, not engineers",Igor Andriushchenko,Creating great teams - a practical guide to self-selection.,Mark Peacock
+09:58-10:20,Rast,,,
+10:20-10-30,"Ofrivilligt kodägarskap och ordet ""vi""",Per Rovegård,Rekrytering i ett agilt team,Mikael Jonasson & Helena Biander
+10:32-10:42,"Det främsta måttet på framsteg i mjukvarutveckling är ... ja, vad är det?",Marcus Ahnve,Agile Anonymous,Anna Odhner
+10:44-10:54,Förbättra dina samtal med dina medarbetare.,Teresa Tael,"Från tomma stolar till fullsatt, demoedition",Johan Lindholm
+10:56-11:06,Omtänksam feedback - kanske det finaste du kan ge din kollega,Linn Keife,"Agila antipatterns eller: 10 säkra tecken på att du jobbar på ett ""storföretag""",Patrik Enqvist
+11:08-11:18,Folkets val: Vem leder?,Johannes Lindman,Test Data as Code,Johan Bäckström
+11:18-11:30,Rast,,,
+11:30-11:40,"Två produktägare, två team, en strategi och ett mål",Mikael Tikas och Frida Norre,Vägen genom Groan Zone till effektiva mötesbeslut,Jimmy Janlén
+11:42-11:52,Superkrafter,Pia Fåk Sunnanbo,Underhållsarbetaren - för oplanerat arbete,Nils Hellström
+11:54-12:04,Microservice Club,Johan Östling,Agilt ledarskap - Strategier för att lyckas i en komplex värld.,Michael Göthe
+12:04-13:00,Lunch,,,
+13:00-13:25,Open Space och Workshop Introduktion,,,
+13:25-14:10,Open Space Pass 1,Du?,,
+,Workshop: Facilitering utan gimmickar - Tor 1,Joakim Manding Holm,,
+,Workshop: Motiverande Samtal - Loke 1,Teresa Tael,Workshop: Serverprovisionering med Ansible - Tor 2,Marcus Ahnve
+14:10-14:25,Rast,,,
+14:25-15:10,Open Space Pass 2,Du?,,
+,,,Workshop: Lego Serious Play - Tor 2,Jonas Hermansson
+,Workshop: Team Shapes - Från kompontentteam till feature team - Tor 1,Fredrik Lindgren och Martin Christensen,Workshop: Förändringens fyra rum - Loke 1,Bodil Björnberg
+15:10-15:30,Fika,,,
+15:30-15:40,Att Skyffla Grus och Gräva Diken,Tobbe Gyllebring,,
+15:42-15:52,Ceci n'est pas une fin - Detta är inte ett slut,Morgan Ahlström,-,
+15:52:16:40,Återblick,,-,
