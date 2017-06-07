@@ -1,3 +1,4 @@
+// loads json from given url
 function loadJson(url, onSuccess, onError) {
     var request = new XMLHttpRequest();
     request.open('GET', url, true);
@@ -26,10 +27,29 @@ function find(schedule, now) {
     return -1;
 }
 
+// data provider, for easy control of "current" time.
+function getDate() {
+    if (getDate.fixed_time) {
+        return new Date(getDate.fixed_time);
+    }
+    return new Date();
+}
+
+function updateFixedTimeSlider(schedule) {
+    var first = schedule[0];
+    document.querySelector("#now-slider").min = Date.parse(first.start);
+    
+    var last = schedule[schedule.length - 1];
+    document.querySelector("#now-slider").max = Date.parse(last.stop);
+}
+
+// Updates the title & speakers
 function update(schedule) {
-    //const now = new Date();
-    const now = Date.parse('2017-06-03T09:17:00Z');
-    console.log("now: " + now);
+    updateFixedTimeSlider(schedule);
+
+    var now = getDate();
+
+    document.querySelector("#now-display").innerHTML = now;
 
     const index = find(schedule, now);
     if (index >= 0) {
@@ -41,9 +61,13 @@ function update(schedule) {
         document.querySelector("#tab .speaker").innerHTML = entry.tab.speaker;
     }
     
-    
     // TODO: Leaner timeout
     setTimeout(update, 500, schedule);
+}
+
+// called when the fixed time slider is changed
+function fixedTimeChanged(value) {
+    getDate.fixed_time = parseInt(value);
 }
 
 loadJson('/api/schedule', update, console.error);
