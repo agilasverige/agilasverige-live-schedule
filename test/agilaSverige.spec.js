@@ -34,6 +34,7 @@ describe('cvs2json', function() {
   
   it('two days', function(done) {
     const input = MemoryStream.createReadStream([
+      "skräp,,,,",
       "Tid,Space,Talare,Tab,Talare",
       "08:00-09:00,a,b,c,d",
       "Tid,Space,Talare,Tab,Talare",
