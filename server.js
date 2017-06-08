@@ -7,8 +7,9 @@ const app = express();
 app.use(express.static('public'))
 
 app.get('/api/schedule', function (req, res) {
+  const startDay = new Date("2017-06-06");
   var input = fs.createReadStream('data/2017.csv');
-  agilaSverige.cvs2json(input, res);
+  agilaSverige.cvs2json(input, res, {startDay});
 });
 
 app.listen(3000, function () {
