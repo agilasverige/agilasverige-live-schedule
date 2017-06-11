@@ -13,8 +13,9 @@ Basic web application to display live schedule, as imported from csv file.
 1. Get tarball of repo
 2. Make sure below is started on reboot, may differ depending on OS.
 3. `npm install --production`
-4. `npm start`
-5. Reverse proxy port 3000 for http and/or https.
+4. `npm build`
+5. Serve everything under the `public/` folder.
+6. Reverse proxy port 3000 for http and/or https.
 
 ### Development
 ```
