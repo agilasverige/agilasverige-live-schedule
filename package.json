@@ -5,6 +5,7 @@
   "repository": "https://github.com/vidstige/agilasverige-live-schedule",
   "main": "server.js",
   "scripts": {
+    "update": "node update.js",
     "test": "node_modules/.bin/istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- -R spec"
   },
   "author": "",
