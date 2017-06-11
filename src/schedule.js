@@ -65,11 +65,14 @@ function update(schedule) {
     setTimeout(update, 500, schedule);
 }
 
-window.addEventListener('load', function() {
-    const slider = document.getElementById('now-slider');
-    slider.onchange = function() {
-        getDate.fixed_time = parseInt(slider.value);
-    };
-}, false);
 
-loadJson('/data/program.json', update, console.error);
+module.exports = function() {
+    window.addEventListener('load', function() {
+        const slider = document.getElementById('now-slider');
+        slider.onchange = function() {
+            getDate.fixed_time = parseInt(slider.value);
+        };
+    }, false);
+
+    loadJson('/data/program.json', update, console.error);
+};
