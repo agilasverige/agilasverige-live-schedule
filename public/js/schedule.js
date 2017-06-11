@@ -70,4 +70,4 @@ function fixedTimeChanged(value) {
     getDate.fixed_time = parseInt(value);
 }
 
-loadJson('/api/schedule', update, console.error);
+loadJson('/data/program.json', update, console.error);
