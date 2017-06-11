@@ -6,7 +6,7 @@
   "main": "server.js",
   "scripts": {
     "update": "node update.js",
-    "start": "node_modules/.bin/webpack-dev-server",
+    "start": "node_modules/.bin/webpack-dev-server --hot --inline",
     "test": "node_modules/.bin/istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- -R spec"
   },
   "author": "",
