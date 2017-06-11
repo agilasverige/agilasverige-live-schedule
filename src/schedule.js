@@ -65,9 +65,11 @@ function update(schedule) {
     setTimeout(update, 500, schedule);
 }
 
-// called when the fixed time slider is changed
-function fixedTimeChanged(value) {
-    getDate.fixed_time = parseInt(value);
-}
+window.addEventListener('load', function() {
+    const slider = document.getElementById('now-slider');
+    slider.onchange = function() {
+        getDate.fixed_time = parseInt(slider.value);
+    };
+}, false);
 
 loadJson('/data/program.json', update, console.error);
