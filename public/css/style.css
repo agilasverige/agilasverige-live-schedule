@@ -1,45 +1,45 @@
 body {
-    color: black;
-    font-family: Tahoma, Geneva, sans-serif;
+  color: black;
+  font-family: Tahoma, Geneva, sans-serif;
 }
 .striped {
-    background: repeating-linear-gradient(
-        45deg,
-        #aa1d85,
-        #aa1d85 20px,
-        #b7b7b7 20px,
-        #b7b7b7 40px
-    );
+  background: repeating-linear-gradient(
+    45deg,
+    #aa1d85,
+    #aa1d85 20px,
+    #b7b7b7 20px,
+    #b7b7b7 40px
+  );
 }
 .next-up {
-    font-size: normal;
+  font-size: normal;
 }
 .title {
-    font-size: x-large;
-    display: block;
+  font-size: x-large;
+  display: block;
 }
 .speaker {
-    font-size: small;
-    color: darkgray;
+  font-size: small;
+  color: darkgray;
 }
 .row {
-    width: 100%;
-    height: 45%;
+  width: 100%;
+  height: 45%;
 }
 .tile {
-    background: white;
+  background: white;
 }
 .center {
-    text-align: center;
+  text-align: center;
 
-    position: relative;
-    top: 25%;
-    transform: translateY(50%);
+  position: relative;
+  top: 25%;
+  transform: translateY(50%);
 }
 
 .accent {
-    color: #FF2BC7;
+  color: #FF2BC7;
 }
 .uppercase {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
