@@ -1,4 +1,4 @@
-# Agila Sverige live app [![Build Status](https://travis-ci.org/vidstige/agilasverige-live-schedule.svg?branch=master)](https://travis-ci.org/vidstige/agilasverige-live-schedule)
+# Agila Sverige live app [![Build Status](https://travis-ci.org/agilasverige/live-schedule.svg?branch=master)](https://travis-ci.org/agilasverige/live-schedule)
 
 Basic web application to display live schedule, as imported from csv file.
 
