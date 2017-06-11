@@ -4,6 +4,18 @@ Basic web application to display live schedule, as imported from csv file.
 
 ## Usage
 
+### Updating-scheule
+1. Export CSV file for the program. Save it under `data/<year>/program.csv`.
+2. Export CSV file for the long descriptions. Save it under `data/<year>/beskrivningar.csv`
+
+### Production
+1. Get tarball of repo
+2. Make sure below is started on reboot, may differ depending on OS.
+3. `npm install --production`
+4. `npm start`
+5. Reverse proxy port 3000 for http and/or https.
+
+### Development
 ```
 npm install
 npm start
