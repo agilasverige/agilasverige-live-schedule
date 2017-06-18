@@ -20,25 +20,43 @@ function loadJson(url, onSuccess, onError) {
 
 function find(schedule, now) {
   for (var i = 0; i < schedule.length; i++) {
-    if (now > Date.parse(schedule[i].start) && now < Date.parse(schedule[i].stop)) {
+    if (now < Date.parse(schedule[i].stop)) {
       return i;
     }
   }
   return -1;
 }
 
-// data provider, for easy control of "current" time.
-function getDate() {
-  if (getDate.fixed_time) {
-    return new Date(getDate.fixed_time);
+function startTimeOf(schedule) {
+  return Date.parse(schedule[0].start);
+}
+
+function endTimeOf(schedule) {
+  return Date.parse(schedule[schedule.length - 1].stop);
+}
+
+function getTimeWithinSchedule(schedule) {
+  var now = new Date().getTime();
+  var startTime = startTimeOf(schedule);
+  var endTime = endTimeOf(schedule);
+  if (now >= startTime && now <= endTime) {
+    return new Date(now);
   }
-  return new Date();
+  return new Date(startTime);
+}
+
+// data provider, for easy control of "current" time.
+function getDisplayTime(schedule) {
+  if (getDisplayTime.fixed_time) {
+    return new Date(getDisplayTime.fixed_time);
+  }
+  return getTimeWithinSchedule(schedule);
 }
 
 function updateFixedTimeSlider(schedule) {
   var first = schedule[0];
   document.querySelector("#now-slider").min = Date.parse(first.start);
-    
+
   var last = schedule[schedule.length - 1];
   document.querySelector("#now-slider").max = Date.parse(last.stop);
 }
@@ -47,7 +65,7 @@ function updateFixedTimeSlider(schedule) {
 function update(schedule) {
   updateFixedTimeSlider(schedule);
 
-  var now = getDate();
+  var now = getDisplayTime(schedule);
 
   document.querySelector("#now-display").innerHTML = now;
 
@@ -60,7 +78,7 @@ function update(schedule) {
     document.querySelector("#tab .title").innerHTML = entry.tab.title;
     document.querySelector("#tab .speaker").innerHTML = entry.tab.speaker;
   }
-    
+
   // TODO: Leaner timeout
   setTimeout(update, 500, schedule);
 }
@@ -70,7 +88,7 @@ module.exports = function() {
   window.addEventListener('load', function() {
     const slider = document.getElementById('now-slider');
     slider.onchange = function() {
-      getDate.fixed_time = parseInt(slider.value);
+      getDisplayTime.fixed_time = parseInt(slider.value);
     };
   }, false);
 
