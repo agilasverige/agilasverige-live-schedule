@@ -11,6 +11,11 @@ body {
     #b7b7b7 40px
   );
 }
+
+.hidden {
+  display: none;
+}
+
 .next-up {
   font-size: normal;
 }
