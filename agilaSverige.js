@@ -44,4 +44,15 @@ function cvs2json(input, output, options) {
     .pipe(output);
 }
 
-module.exports = { cvs2json };
+function description2json(input, output) {
+  function toObject(row) {
+    return {title: row[3], description: row[4]};
+  }
+  input
+    .pipe(csv.parse())
+    .pipe(csv.transform(toObject))
+    .pipe(JSONStream.stringify())
+    .pipe(output);
+}
+
+module.exports = { cvs2json, description2json };

@@ -64,3 +64,27 @@ describe('cvs2json', function() {
     agilaSverige.cvs2json(input, output, {startDay: new Date("2017-06-06")});
   });
 });
+
+describe('description2json', function() {
+  it('test1', function(done) {
+    const input = MemoryStream.createReadStream([
+      '"Namn, inklusive eventuella medtalare",Företag,Typ av tal,Titel på blixttal/workshop,Beskrivning av blixttal/workshop',
+      'Pia Fåk Sunnanbo,Omegapoint,Blixttal,Superkrafter,"Somliga verkar ha superkrafter. Deras ord finner vägen in chefens hjärta. De kan fixa access till produktionsmiljön på fem minuter. De hittar den enklaste lösningen på problemet. Vi vanliga dödliga kan bara tittal på, gapa och försöka svälja avundsjukan.',
+      'Eller… kan det vara så att du och jag har egna superkrafter som vi inte känner till?"'].join('\n'));
+    const output = new MemoryStream();
+    streamToString(output, function(str) {
+      const actual = JSON.parse(str);
+      const expected = [{
+          "description": "Beskrivning av blixttal/workshop",
+          "title": "Titel på blixttal/workshop"
+        }, {
+          "description": "Somliga verkar ha superkrafter. Deras ord finner vägen in chefens hjärta. De kan fixa access till produktionsmiljön på fem minuter. De hittar den enklaste lösningen på problemet. Vi vanliga dödliga kan bara tittal på, gapa och försöka svälja avundsjukan.\nEller… kan det vara så att du och jag har egna superkrafter som vi inte känner till?",
+          "title": "Superkrafter"
+        }
+      ];
+      assert.deepEqual(expected, actual);
+      done();
+    });
+    agilaSverige.description2json(input, output);
+  });
+});
