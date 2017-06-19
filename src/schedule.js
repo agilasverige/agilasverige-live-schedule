@@ -83,9 +83,16 @@ function update(schedule) {
   setTimeout(update, 500, schedule);
 }
 
+function flipCard(event) {
+  event.target.querySelector('.front').classList.toggle('hidden');
+  event.target.querySelector('.back').classList.toggle('hidden');
+}
 
 module.exports = function() {
   window.addEventListener('load', function() {
+    document.getElementById('space').onclick = flipCard;
+    document.getElementById('tab').onclick = flipCard;
+
     const slider = document.getElementById('now-slider');
     slider.onchange = function() {
       getDisplayTime.fixed_time = parseInt(slider.value);
