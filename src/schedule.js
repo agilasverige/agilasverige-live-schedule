@@ -61,6 +61,11 @@ function updateFixedTimeSlider(schedule) {
   document.querySelector("#now-slider").max = Date.parse(last.stop);
 }
 
+var descriptions;
+function storeDescriptions(d) {
+  descriptions = d; // TODO: Use object rather than global var here
+}
+
 // Updates the title & speakers
 function update(schedule) {
   updateFixedTimeSlider(schedule);
@@ -83,21 +88,45 @@ function update(schedule) {
   setTimeout(update, 500, schedule);
 }
 
-function flipCard(event) {
-  event.target.querySelector('.front').classList.toggle('hidden');
-  event.target.querySelector('.back').classList.toggle('hidden');
+function findDescription(title) {
+  for (var i = 0; i < descriptions.length; i++) {
+    const entry = descriptions[i];
+    if (entry['title'] == title) {
+      return entry['description'];
+    }
+  }
+  return null;
+}
+
+function flipCard(el) {
+  var front = el.querySelector('.front');
+  if (front) {
+    front.classList.toggle('hidden');
+  }
+  var back = el.querySelector('.back');
+  if (back) {
+    back.classList.toggle('hidden');
+  }
+  
+  // TODO: Hack here, query UI for title - this should be stored in a model instead
+  var title = el.querySelector('.title').innerHTML;
+  el.querySelector('.description').innerHTML = findDescription(title);
 }
 
 module.exports = function() {
   window.addEventListener('load', function() {
-    document.getElementById('space').onclick = flipCard;
-    document.getElementById('tab').onclick = flipCard;
-
     const slider = document.getElementById('now-slider');
     slider.onchange = function() {
       getDisplayTime.fixed_time = parseInt(slider.value);
     };
+    var space = document.getElementById('space');
+    space.onclick = function() { flipCard(space); };
+    var tab = document.getElementById('tab');
+    tab.onclick = function() { flipCard(tab); };
+
   }, false);
 
+
   loadJson('/data/program.json', update, console.error);
+  loadJson('/data/descriptions.json', storeDescriptions, console.error);
 };
