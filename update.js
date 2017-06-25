@@ -11,7 +11,11 @@ function getStartDate() {
 
 
 const startDay = getStartDate();
-console.log("Generating json schedule starting on " + startDay.toDateString())
+console.log("Generating json schedule starting on " + startDay.toDateString());
 var input = fs.createReadStream('data/2017/program.csv');
 var output = fs.createWriteStream('public/data/program.json');
 agilaSverige.cvs2json(input, output, {startDay});
+
+var input2 = fs.createReadStream('data/2017/beskrivningar.csv');
+var output2 = fs.createWriteStream('public/data/descriptions.json');
+agilaSverige.description2json(input2, output2);
