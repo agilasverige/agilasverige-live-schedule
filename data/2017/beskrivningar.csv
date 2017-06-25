@@ -1,9 +1,13 @@
-"Namn, inklusive eventuella medtalare",Företag,Typ av tal,Titel på blixttal/workshop,Beskrivning av blixttal/workshop
+"Namn, inklusive eventuella medtalare",Företag,Typ av tal,Titel på blixttal/workshop,Beskrivning av blixttal/workshop
+
 Pia Fåk Sunnanbo,Omegapoint,Blixttal,Superkrafter,"Somliga verkar ha superkrafter. Deras ord finner vägen in chefens hjärta. De kan fixa access till produktionsmiljön på fem minuter. De hittar den enklaste lösningen på problemet. Vi vanliga dödliga kan bara tittal på, gapa och försöka svälja avundsjukan.
 
-Eller… kan det vara så att du och jag har egna superkrafter som vi inte känner till?"
-Mark Peacock,NetEnt AB,Blixttal,Creating great teams - a practical guide to self-selection.,Practical steps to making a team self-selection exercise a success in an organisation of 100 people. (Will be done in English - but speaker understands Swedish).
-Jimmy Sjölund,Telia Company,Blixttal,6 steg till perfekta 30-minuters möten,Ingen vill ha möten. Ibland behövs de ändå och tyvärr är möten oftast automatiskt 60 minuter av gammal vana eller styrda av din kalenderapp. Efter att ha minskat samtliga mina möten till max 30 minuter vill jag dela med mig av de sex steg jag använder för att maximera värdet på varje möte.
+Eller… kan det vara så att du och jag har egna superkrafter som vi inte känner till?"
+
+Mark Peacock,NetEnt AB,Blixttal,Creating great teams - a practical guide to self-selection.,Practical steps to making a team self-selection exercise a success in an organisation of 100 people. (Will be done in English - but speaker understands Swedish).
+
+Jimmy Sjölund,Telia Company,Blixttal,6 steg till perfekta 30-minuters möten,Ingen vill ha möten. Ibland behövs de ändå och tyvärr är möten oftast automatiskt 60 minuter av gammal vana eller styrda av din kalenderapp. Efter att ha minskat samtliga mina möten till max 30 minuter vill jag dela med mig av de sex steg jag använder för att maximera värdet på varje möte.
+
 Johannes LIndman,Johannes Lindman AB,Blixttal,Vem leder?,"Teamen är självorganiserande, innebär det att ledare saknas?
 Är Scrum master teamledare? Eller PO ? 
 Många agilister har en passion för människor, vi undrar vad som motiverar, hur vi skapar samhörighetskänsla och maximerar viljan att nå våra mål.
@@ -14,58 +18,86 @@ Som traditionellt skolad ledare inom armén och med många års erfarenhet som c
    
 
 
- "
-Matti Klasson,King,Blixttal,Feedback? - Ja tack!,Hur kan vi skapa en miljö där våra utvecklingsteam har feedback som ett verktyg att utveckla både teamet och individerna.  I det har talet kommer jag beskriva hur vi gör detta på King. 
+ "
+
+Matti Klasson,King,Blixttal,Feedback? - Ja tack!,Hur kan vi skapa en miljö där våra utvecklingsteam har feedback som ett verktyg att utveckla både teamet och individerna.  I det har talet kommer jag beskriva hur vi gör detta på King. 
+
 Viktor Cessan,Cessan Lean & Agile Coaching,Blixttal,Vad lärde vi oss när vi tog bort alla mellancheferna i IT på Spotify?,"När vi skulle skala IT från 25 personer till 75 så insåg vi att Spotifys organisationsmodell lägger på för många formella ledarroller. Våra mellanchefer var upptagna med att se till att infrastrukturen inte kraschade, på bekostnad av andra viktiga ansvarsuppgifter. Och folk ifrågasatte varför vi hade mellanchefer när de i så stor utsträckning fokuserade på att arbetsleda utveckling när vi hade arbetskraftsbrist.
 
 Vi löste detta genom att ta bort alla mellancheferna och att använda det headcountet till att rekrytera mer personal till teamen.
 
-Det här blixttalet handlar om varför vi gjorde detta och vad som hände när vi tog bort alla mellancheferna."
-Staffan Nöteberg,Rekursiv,Blixttal,Vitala få. Användbara många.,"Just den här veckan är vi ovanligt chokade, men nästa vecka ser det bättre ut. Eller hade vi inte den känslan förra veckan också? Och är det problematiskt om vår backlog växer ohämmat? Behöver vi en undvik-till-varje-pris-lista? En te-drickande psykolog från 1920-talets Berlin gav oss svaret."
-Rickard Westman,SVT,Blixttal,”Tech-sprinten”: Hur vi försökte lösa beroenden – och snubblade över en innovationshubb,"SVT:s utvecklingsavdelning SVTi har på tre år vuxit från 5 team till 18 – samtidigt som vi har jobbat oss bort från en arkitekturell javamonolit. Som ett led i att hantera beroenden mellan olika team provade vi 2014 att genomföra en ”tech-sprint”, helt skilt från ordinarie produktbackloggar och helt utvecklardrivet. Tre år senare har konceptet vuxit till två årliga ”SVTi-sprintar”, där utvecklarna fortfarande helt ansvarar för innehållet – och resultatet mer handlar om innovation än att hantera beroenden. "
-Johan Östling,Citerus AB,Blixttal,Microservice Club,"""The first rule of Microservice Club is: you do not need microservices"". Det finns en viss tendens i vår bransch att se microservices som ett mål i sig, och inte som ett verktyg i mängden, med sina egna för- och nackdelar. Det finns en tid och en plats för microservices, men det är troligtvis inte på ditt projekt. Kanske behövs det en Tyler Durden som bankar in (endast bildligt talat!) den läxan?"
-Tommy Tynjä,Diabol AB,Blixttal,Ett år av mobprogrammering - tips & tricks,"I mitt utvecklingsteam har vi jobbat med mobprogrammering i över ett år nu, varje dag, inga undantag. Vi har noterat en stor boost i produktivitet och vi känner verkligen hur vi utnyttjar teamets sammantagna hjärnkapacitet för att lösa problem och leverera högkvalitativ mjukvara till våra kunder. Men det är inte alltid så lätt. Vi har gått den hårda vägen och fått lära oss förfina vårt arbetssätt själva, genom ett ständigt pågående förbättringsarbete. I den här presentationen tänkte jag dela med mig av effekterna vi sett av mobprogrammering samt tips och tricks som vi lärt oss längs vägen."
-"Mattias Lönnqvist, Homeira Tourandaz",ADDQ,Blixttal,5 konkreta tips till en agil företagskultur,"Vi vet alla vad agil systemutveckling innebär. Men, hur får vi hela företaget att bli agilt? Här får du 5 stycken konkreta tips."
-Mikael Jonasson & Helena Biander,Nordea Bank AB,Blixttal,Rekrytering i ett agilt team,"Varför skall rekrytering vara chefens domän i ett agilt team, där teamet i alla andra frågor förväntas vara självorganiserande. Vi berättar här om hur vi gick till väga för att flytta rekryteringsansvaret in till teamet, och vilka problem vi stötte på under resan."
+Det här blixttalet handlar om varför vi gjorde detta och vad som hände när vi tog bort alla mellancheferna."
+
+Staffan Nöteberg,Rekursiv,Blixttal,Vitala få. Användbara många.,"Just den här veckan är vi ovanligt chokade, men nästa vecka ser det bättre ut. Eller hade vi inte den känslan förra veckan också? Och är det problematiskt om vår backlog växer ohämmat? Behöver vi en undvik-till-varje-pris-lista? En te-drickande psykolog från 1920-talets Berlin gav oss svaret."
+
+Rickard Westman,SVT,Blixttal,”Tech-sprinten”: Hur vi försökte lösa beroenden – och snubblade över en innovationshubb,"SVT:s utvecklingsavdelning SVTi har på tre år vuxit från 5 team till 18 – samtidigt som vi har jobbat oss bort från en arkitekturell javamonolit. Som ett led i att hantera beroenden mellan olika team provade vi 2014 att genomföra en ”tech-sprint”, helt skilt från ordinarie produktbackloggar och helt utvecklardrivet. Tre år senare har konceptet vuxit till två årliga ”SVTi-sprintar”, där utvecklarna fortfarande helt ansvarar för innehållet – och resultatet mer handlar om innovation än att hantera beroenden. "
+
+Johan Östling,Citerus AB,Blixttal,Microservice Club,"""The first rule of Microservice Club is: you do not need microservices"". Det finns en viss tendens i vår bransch att se microservices som ett mål i sig, och inte som ett verktyg i mängden, med sina egna för- och nackdelar. Det finns en tid och en plats för microservices, men det är troligtvis inte på ditt projekt. Kanske behövs det en Tyler Durden som bankar in (endast bildligt talat!) den läxan?"
+
+Tommy Tynjä,Diabol AB,Blixttal,Ett år av mobprogrammering - tips & tricks,"I mitt utvecklingsteam har vi jobbat med mobprogrammering i över ett år nu, varje dag, inga undantag. Vi har noterat en stor boost i produktivitet och vi känner verkligen hur vi utnyttjar teamets sammantagna hjärnkapacitet för att lösa problem och leverera högkvalitativ mjukvara till våra kunder. Men det är inte alltid så lätt. Vi har gått den hårda vägen och fått lära oss förfina vårt arbetssätt själva, genom ett ständigt pågående förbättringsarbete. I den här presentationen tänkte jag dela med mig av effekterna vi sett av mobprogrammering samt tips och tricks som vi lärt oss längs vägen."
+
+Mattias Lönnqvist+Homeira Tourandaz,ADDQ,Blixttal,5 konkreta tips till en agil företagskultur,"Vi vet alla vad agil systemutveckling innebär. Men, hur får vi hela företaget att bli agilt? Här får du 5 stycken konkreta tips."
+
+Mikael Jonasson & Helena Biander,Nordea Bank AB,Blixttal,Rekrytering i ett agilt team,"Varför skall rekrytering vara chefens domän i ett agilt team, där teamet i alla andra frågor förväntas vara självorganiserande. Vi berättar här om hur vi gick till väga för att flytta rekryteringsansvaret in till teamet, och vilka problem vi stötte på under resan."
+
 Björn Lindqvist,Ledartankar AB,Blixttal,Brainy Days - innovationsracet som funkar.,"Innovation i agila team kan vara svårt att få till. 
 Ofta vill vi dessutom att innovationsrace ska vara teambaserade och produktiva. Björn berättar om sitt Brainy Days-koncept som har körts av företag som Avanza, Collector Bank och Accedo med stor framgång. 
 Avgörande innovationer och lösningar har skapats på mycket kort tid!
-"
+"
+
 "David Barnholdt, Therése Ahlberg (ev)",Crisp AB,Workshop,Olika nivåer av agilt ledarskap,"Agila arbetsätt ställer helt nya krav på hur en organisation byggs upp och på ledares och chefers roll. Hur behöver man tänka och agera som agil ledare och chef i en redan agil organisation eller vid vid införandet av ett agilt arbetssätt? 
 
-Du kommer få ta del av lite teori och hel del erfarenheter, med förhoppningen att ge dig nya idéer och verktyg att använda i ditt dagliga arbete."
+Du kommer få ta del av lite teori och hel del erfarenheter, med förhoppningen att ge dig nya idéer och verktyg att använda i ditt dagliga arbete."
+
 Johan Lindholm,Avanzabank AB,Blixttal,"Från tomma stolar till fullsatt, demoedition","Innan jag började på Avanza jobbade jag för en tech-startup, det lärde mig vikten att kunna demonstrera något djupt tekniskt för personer som inte var så insatta, exempelvis kunder och investerare. Denna kunskap har jag tagit vidare in på Avanza där jag som Scrummaster hållit många sprintdemonstrationer för våra interna kunder. Både deltagarantalet samt deras interaktioner med teamet ökade markant när vi styrde om våra demonstrationer att bli enklare, mer koncisa och lättillgängliga.
 
 Jag vill med detta blixttal föra fram vikten att hålla en bra demo, både för affären och utvecklarna. Samt försöka förklara vad som gör en demo bra respektive mindre bra, hur man ska tänka, lägga upp samt utföra det. 
-"
+"
+
 Jon Gyllenswärd,factor10,Blixttal,Funktionell frontend med Elm,"Det funktionella språket Elm som kompileras till Javascript lovar typsäkerhet, snabbhet och enkelhet.
-Kan det vara slut på runtime exceptions och ""undefined is not an object""?"
-Edward Dahllöf,Emergent,Workshop,Visuell facilitering,"Välkommen till en workshop där du får öva på några grunder i visuell facilitering. Vi tränar på att kombinera skrift, objekt, symboler och ramar för att förmedla innehåll. Visualisering handlar mer om bildspråk och övning än om konstnärlig talang, så alla är välkomna! Vi kommer att öva och lära oss i små grupper. Visualisera mera!"
-Måns Sandström,Adaptiv,Blixttal,Lärande i fokus,"Så centralt som lärandet är i vår bransch, skulle man kunna tänka sig att vi skulle vara väldigt ense om vikten av att göra plats för lärande i vår vardag. Hur står det till med det hos er?"
-Joakim Manding Holm,Adaptiv,Blixttal,Fake Feedback. Sad!,"Agila förespråkare talar sig slentrianmässigt varma för vikten av en ""feedbackkultur"" och lär ut standardmodeller för (korrigerande) feedback. Men hur bra fungerar det egentligen? Kanske har du, som jag, problem med att få till det? Jag vill därför förmedla en alternativ, striktare syn på feedback med större chans till verklig förändring."
-Joakim Manding Holm,Adaptiv,Workshop,Facilitering utan gimmickar,Facilitering är mycket mer än serier av styrda gruppövningar. Denna workshop handlar om vad facilitering omfattar samt en viktig modell för vad som händer i grupper som vill fatta beslut i komplexa frågor. Vi resonerar om hur man bör facilitera i olika stadier.
+Kan det vara slut på runtime exceptions och ""undefined is not an object""?"
+
+Edward Dahllöf,Emergent,Workshop,Visuell facilitering,"Välkommen till en workshop där du får öva på några grunder i visuell facilitering. Vi tränar på att kombinera skrift, objekt, symboler och ramar för att förmedla innehåll. Visualisering handlar mer om bildspråk och övning än om konstnärlig talang, så alla är välkomna! Vi kommer att öva och lära oss i små grupper. Visualisera mera!"
+
+Måns Sandström,Adaptiv,Blixttal,Lärande i fokus,"Så centralt som lärandet är i vår bransch, skulle man kunna tänka sig att vi skulle vara väldigt ense om vikten av att göra plats för lärande i vår vardag. Hur står det till med det hos er?"
+
+Joakim Manding Holm,Adaptiv,Blixttal,Fake Feedback. Sad!,"Agila förespråkare talar sig slentrianmässigt varma för vikten av en ""feedbackkultur"" och lär ut standardmodeller för (korrigerande) feedback. Men hur bra fungerar det egentligen? Kanske har du, som jag, problem med att få till det? Jag vill därför förmedla en alternativ, striktare syn på feedback med större chans till verklig förändring."
+
+Joakim Manding Holm,Adaptiv,Workshop,Facilitering utan gimmickar,Facilitering är mycket mer än serier av styrda gruppövningar. Denna workshop handlar om vad facilitering omfattar samt en viktig modell för vad som händer i grupper som vill fatta beslut i komplexa frågor. Vi resonerar om hur man bör facilitera i olika stadier.
+
 Jan Grape,Crisp,Blixttal,Storrumsplanering: vad är poängen och hur funkar det?,"Har man 5-20 agila team kan koordinering och synk bli komplicerat. Hur undviker man gantt-scheman och top-down-planering med många rörliga delar? Hur får man ett helt företags utvecklingsteam att dra åt samma håll samtidigt? Hur identifierar man och börjar göra sig av med bromsande beroenden?
-Här kan regelbunden storrumsplanering hjälpa, men det gäller att undvika fällorna."
+Här kan regelbunden storrumsplanering hjälpa, men det gäller att undvika fällorna."
+
 Johan Hansson,Com Hem AB,Blixttal,Varför vi inte längre självorganiserar oss varje månad,"Under 2016 valde vi att självorganisera oss i team varje månad, något som presenterades som en blixttal under agila sverige 2016. Detta arbetssätt har ett flertal tydliga styrkor. Men även som vi kom att se inte var optimerat uifrån vissa typer av förändringar som snabb expansion av personer i gruppen, snabb expansion av företag eller system med behov av tekniskt ägandeskap.
 
 Så under talet tänker jag ta vid där fjolåretstal lämnade oss och beskriva våra lärdommar under hösten och vad vi nu har valt att göra. Även kanske beröra reflektioner över vad som behövs för att kunna vara lättrörlig i hur man organiserar sig.
-"
+"
+
 Patrik Enqvist,Avanza,Blixttal,"Agila antipatterns eller: 10 säkra tecken på att du jobbar på ett ""storföretag""","Genom min karriär som systemutvecklare har jag sett en handfull försök att arbeta agilt och hinder som varit återkommande. I det här talet går jag igenom 10 av de jobbigaste hindren, orsaken till att de finns och möjliga alternativ till hur man skulle kunna göra istället.
 
 På det här blixttalet kommer du skratta lite, men också gråta inombords eftersom igenkänningsfaktorn är hög. 
-"
-Per Rovegård,factor10,Blixttal,"Ofrivilligt kodägarskap och ordet ""vi""","Ofrivilligt kodägarskap är något som uppstår när vi pratar om kod som ""din"" eller ""min"". Detta är väldigt vanligt och kan utöver de klassika effekterna av kodägarskap leda till frustration och uppgivenhet hos den ofrivillige ägaren. I vissa fall kan det även leda till en s.k. blame-kultur. Genom att ändra på vår retorik och prata om ""vi"" och ""vår kod"" kan vi dock vända på steken och uppnå ökat samarbete, ökad samsyn och en mer välkomnande kultur."
-Petrine Herbai & Fredrik Söderberg,Knowit,Blixttal,Att lyckas med distribuerade team,"Agila metoder i liten och stor skala är idealt för organisationer som sitter tillsammans, men hur får man ihop det med distribuerad team? Vilken set-up ska man välja och hur undviker man A- och B-lag? Det gäller att skapa de bästa förutsättningarna och använda de hjälpmedel som finns för att minska avståndet. Vi vill visa på några enkla recept för att lyckas."
+"
+
+Per Rovegård,factor10,Blixttal,"Ofrivilligt kodägarskap och ordet ""vi""","Ofrivilligt kodägarskap är något som uppstår när vi pratar om kod som ""din"" eller ""min"". Detta är väldigt vanligt och kan utöver de klassika effekterna av kodägarskap leda till frustration och uppgivenhet hos den ofrivillige ägaren. I vissa fall kan det även leda till en s.k. blame-kultur. Genom att ändra på vår retorik och prata om ""vi"" och ""vår kod"" kan vi dock vända på steken och uppnå ökat samarbete, ökad samsyn och en mer välkomnande kultur."
+
+Petrine Herbai & Fredrik Söderberg,Knowit,Blixttal,Att lyckas med distribuerade team,"Agila metoder i liten och stor skala är idealt för organisationer som sitter tillsammans, men hur får man ihop det med distribuerad team? Vilken set-up ska man välja och hur undviker man A- och B-lag? Det gäller att skapa de bästa förutsättningarna och använda de hjälpmedel som finns för att minska avståndet. Vi vill visa på några enkla recept för att lyckas."
+
 Nils Hellström,Tobii,Blixttal,Underhållsarbetaren - för oplanerat arbete,"Får ditt team frågor från Supporten, som måste få svar nu? Äger ni ett API och får frågor från dess brukare, som nu är blockerade i sitt arbete? Kommer säljarna förbi med frågor precis innan de ska besöka en kund? Eller mer allmänt formulerat: gör ni oplanerat arbete i sprinten?
 
 Om du svarat 'Ja' på någon av frågorna ovan behöver ni en Underhållsarbetare.
 
-Underhållsarbetaren tar hand om alla frågeställarna ovan, och ger därmed arbetsro till de övriga i teamet. Rollen som underhållsarbetare visualiserar också att den här typen av arbete existerar, och tar tid. Som en bonus lär sig underhållsarbetaren om nya delar av teamets ansvarsområden. Rollen tilldelas per sprint på ett rullande schema i teamet."
-Linn Keife,Avanza,Blixttal,Omtänksam feedback - kanske det finaste du kan ge din kollega,Ett blixttal om kraften i omtänksam och genomtänkt feedback kollegor emellan. Genom att öva och bli proffsiga på att ge och ta feedback kan vi överbrygga det stora gap som ofta finns mellan hur vi tror vi är och hur andra faktiskt uppfattar oss. En hälsosam feedback-kultur bygger dessutom starka och framgångsrika team. Låter det lätt? Det är det inte! Som tur är finns det tips som hjälper dig på vägen.
-Jimmy Janlén,Crisp AB,Blixttal,Vägen genom Groan Zone till effektiva mötesbeslut,"Att facilitera bra möten med högt engagemang som resulterar i tydliga inkluderande win-win beslut är en konstform i sig. Jimmy Janlén, konsult på Crisp och Agil Coach på Spotify, beskriver hur Groan Zone påverkar gruppen och hur han använder den för att utforma workshoppar och leda gruppen genom diskussioner. Fysiska övningar och skratt utlovas."
-Yassal Sundman,Crisp,Blixttal,Skapa och vårda väl fungerade team,"Vissa team fungerar inte. De levererar inte och arbetar inte bra ihop. De får inte jobbet gjort. Här är några tips som skapar förutsättningar för att utveckla väl fungerande team som levererar, och för att vårda teamen när kontext ändras."
-Morgan Ahlström,SpryWise AB,Blixttal,Vem kommer efter Agile?,"Under ganska många års tid har jag fått frågan ""vad kommer efter agile?"". Jag är inget orakel som besitter svaren om framtiden, däremot har jag blivit allt mer säker på att frågan är felformulerad. Vi måste börja ställa oss själva frågan ""vem kommer efter agile?"". Vems problem är det vi skall lösa imorgon?"
-Morgan Ahlström,SpryWise AB,Blixttal,Ceci n'est pas une fin - Detta är inte ett slut,En modell som förklarar varför dina planer gick i stöpet och lite filosoferande runt Faust och faran med att bli klar.
+Underhållsarbetaren tar hand om alla frågeställarna ovan, och ger därmed arbetsro till de övriga i teamet. Rollen som underhållsarbetare visualiserar också att den här typen av arbete existerar, och tar tid. Som en bonus lär sig underhållsarbetaren om nya delar av teamets ansvarsområden. Rollen tilldelas per sprint på ett rullande schema i teamet."
+
+Linn Keife,Avanza,Blixttal,Omtänksam feedback - kanske det finaste du kan ge din kollega,Ett blixttal om kraften i omtänksam och genomtänkt feedback kollegor emellan. Genom att öva och bli proffsiga på att ge och ta feedback kan vi överbrygga det stora gap som ofta finns mellan hur vi tror vi är och hur andra faktiskt uppfattar oss. En hälsosam feedback-kultur bygger dessutom starka och framgångsrika team. Låter det lätt? Det är det inte! Som tur är finns det tips som hjälper dig på vägen.
+
+Jimmy Janlén,Crisp AB,Blixttal,Vägen genom Groan Zone till effektiva mötesbeslut,"Att facilitera bra möten med högt engagemang som resulterar i tydliga inkluderande win-win beslut är en konstform i sig. Jimmy Janlén, konsult på Crisp och Agil Coach på Spotify, beskriver hur Groan Zone påverkar gruppen och hur han använder den för att utforma workshoppar och leda gruppen genom diskussioner. Fysiska övningar och skratt utlovas."
+
+Yassal Sundman,Crisp,Blixttal,Skapa och vårda väl fungerade team,"Vissa team fungerar inte. De levererar inte och arbetar inte bra ihop. De får inte jobbet gjort. Här är några tips som skapar förutsättningar för att utveckla väl fungerande team som levererar, och för att vårda teamen när kontext ändras."
+
+Morgan Ahlström,SpryWise AB,Blixttal,Vem kommer efter Agile?,"Under ganska många års tid har jag fått frågan ""vad kommer efter agile?"". Jag är inget orakel som besitter svaren om framtiden, däremot har jag blivit allt mer säker på att frågan är felformulerad. Vi måste börja ställa oss själva frågan ""vem kommer efter agile?"". Vems problem är det vi skall lösa imorgon?"
+
+Morgan Ahlström,SpryWise AB,Blixttal,Ceci n'est pas une fin - Detta är inte ett slut,En modell som förklarar varför dina planer gick i stöpet och lite filosoferande runt Faust och faran med att bli klar.
+
 Stefan Norinder,Valtech AB,Blixttal,Varför vi ska lära känna varandra i ett team,"I boken ”5 dysfunctions of a team” ger författaren Patrick Lencioni tips på “lära känna varandra”-övningar. Även andra böcker och metoder pekar på vikten av att vi känner kollegorna vi arbetar med. Men vad är nyttan i att jag känner personerna jag arbetar med? Varför behöver jag veta att Kalle gillar matlagning, Lisa är nyskild och Rikard har diabetes? Vi är ju alla professionella och har en uppgift att utföra. Det borde vi kunna göra utan att bli personliga.
 
 Faktiskt inte, forskningen säger annorlunda. Det finns fler anledningar till varför vi presterar bättre när vi känner dem vi arbetar med, men här tänkte jag ta upp en infallsvinkel som jag inte läst om i projektledningslitteratur.
@@ -76,57 +108,86 @@ Försökspersonerna delades upp i två grupper. Den ena gruppen fick information
 
 Efter experimentet undersökte forskarna hur mycket av geografilektionen som försökspersonerna kom ihåg. Resultatet visade att gruppen som fått informationen att personen i texten vad konstnär kom ihåg mer från geografilektionen än de som inte fått den informationen. De med “konstnärsinformationen” behövde inte använda mental energi till att försöka “förstår” personen, utan kunde använda den energin till geografilektionen.
 
-Min tolkning är att när vi får en tydligare bild av en människa i vår omgivning (i detta fall genom att våra förutfattade meningar om personen bekräftats) behöver vi inte lägga energi på att försöka förstå personen, utan kan fokusera på annat. För att återknyta till teamarbete betyder det att om vi känner personerna som vi arbetar tillsammans med, kan vi lägga tid på att arbeta med uppgiften som ska utföras istället för att försöka förstå vår omgivning."
-Thom Persson,Cybercom,Blixttal,Leva och leverera med depressioner,"Depressioner är den del av det mänskliga psyket men att prata om dem och att försöka förstå varför de uppkommer ses av många som tabu.  Är de till exempel alltid av ondo? Jag kommer öppenhjärtigt att dela med mig av hur det är att leva med återkommande depressioner och hur det kan påverka min förmåga att leverera – oavsett om det är kod, kunskap eller livsglädje. Jag reflekterar även över hur depressioner kan se ut i ett team."
-Marcus Ahnve,Valtech,Workshop,Serverprovisionering med Ansible och Terraform,Vi börjar med att diskutera hur serversetup och automatisering relaterar till moln- och SAAS-tjänster och hur man undviker inlåsning. Med det som bakgrund kommer vi praktiskt gå igenom hur man sätter upp en server för en hostad webbapplikation med hjälp av Ansible och Terraform. 
+Min tolkning är att när vi får en tydligare bild av en människa i vår omgivning (i detta fall genom att våra förutfattade meningar om personen bekräftats) behöver vi inte lägga energi på att försöka förstå personen, utan kan fokusera på annat. För att återknyta till teamarbete betyder det att om vi känner personerna som vi arbetar tillsammans med, kan vi lägga tid på att arbeta med uppgiften som ska utföras istället för att försöka förstå vår omgivning."
+
+Thom Persson,Cybercom,Blixttal,Leva och leverera med depressioner,"Depressioner är den del av det mänskliga psyket men att prata om dem och att försöka förstå varför de uppkommer ses av många som tabu.  Är de till exempel alltid av ondo? Jag kommer öppenhjärtigt att dela med mig av hur det är att leva med återkommande depressioner och hur det kan påverka min förmåga att leverera – oavsett om det är kod, kunskap eller livsglädje. Jag reflekterar även över hur depressioner kan se ut i ett team."
+
+Marcus Ahnve,Valtech,Workshop,Serverprovisionering med Ansible och Terraform,Vi börjar med att diskutera hur serversetup och automatisering relaterar till moln- och SAAS-tjänster och hur man undviker inlåsning. Med det som bakgrund kommer vi praktiskt gå igenom hur man sätter upp en server för en hostad webbapplikation med hjälp av Ansible och Terraform. 
+
 Tomas Karlsson,Omegapoint,Blixttal,Zero Velocity,"Om vi adderar fler personer till ett projekt så blir det mer gjort, så länge vi gör enkla saker. Om vi gör svåra saker, så kommer fler människor att öka behovet av kommunikation, vilket gör att mindre blir gjort. Produktionen ökar (i grova drag) linjärt med antalet människor medan kommunikationen ökar snabbare. Optimal storlek på ett team är därför fel eller sex personer.
 
-När Scrum planeras i traditionella hierarkiska organisationer så tillkommer en tidigare förbisedd effekt som gör att projekt kan stanna upp helt. Resultatet blir ""Zero Velocity"". Jag ska vad som händer och varför Scrum och Agile dessutom får skulden för att projektet inte kan producera någonting."
-Petter Wigle,factor10,Blixttal,Renovera eller bygga nytt?,Många organisationer sitter med stora kodbaser som utvecklats under lång tid och blivit allt mer besvärliga och kostsamma att underhålla. Hur ska man komma ur den situationen? Ersätta gamla system med nybyggda är ett sätt. Men är det en bra strategi? Är det i en del fall bättre att renovera den gamla kodbasen och låta en ny bättre arkitektur evolvera fram ur den gamla? Hur går man tillväga för att börja rusta upp något som förfallit under många år?
+När Scrum planeras i traditionella hierarkiska organisationer så tillkommer en tidigare förbisedd effekt som gör att projekt kan stanna upp helt. Resultatet blir ""Zero Velocity"". Jag ska vad som händer och varför Scrum och Agile dessutom får skulden för att projektet inte kan producera någonting."
+
+Petter Wigle,factor10,Blixttal,Renovera eller bygga nytt?,Många organisationer sitter med stora kodbaser som utvecklats under lång tid och blivit allt mer besvärliga och kostsamma att underhålla. Hur ska man komma ur den situationen? Ersätta gamla system med nybyggda är ett sätt. Men är det en bra strategi? Är det i en del fall bättre att renovera den gamla kodbasen och låta en ny bättre arkitektur evolvera fram ur den gamla? Hur går man tillväga för att börja rusta upp något som förfallit under många år?
+
 Kristoffer Roupé,Agical,Blixttal,"Almar, Supermodeller och andra suspekta Typer","I supermodellernas värld, liksom superhjältarnas, kan det omöjliga bli sant. Genom att modellera problem med hjälp av typer kan du göra det omöjligt att försätta ditt program i icke önskvärda tillstånd.
-Tänk dig en DSL där det är omöjligt att koda fel!"
+Tänk dig en DSL där det är omöjligt att koda fel!"
+
 Johan Bäckström,Claremont,Blixttal,Test Data as Code,"Sluta hantera xml- eller json-filer med testdata! 
 
-Jag presenterar en modell för att hantera testdata som kod. Mindre underhåll och lättare refaktorisering vid förändringar och utökningar av informationsmodellen och syntetisk testdata som helt eliminerar problem med personskydd och känslig data."
-Gregory McCabe,Stiy AB,Blixttal,Anonyma Starter Tolv Steg Program,"Vi har alla en tendens att starta saker. Då har vi plötsligt alltför många saker på gång och vi slösar bort tiden genom att jonglera aktiviteter. Här presenterar vi vårt eget tolvstegsprogram, baserat på Anonyma Alkoholister-metoder, för att hjälpa oss själva med vårt beroende av att starta aktiviteter."
-Isabelle Svärd,Fyndiq,Blixttal,Utmattad Agil coach ,"Nästan hälften av alla sjukskrivna kvinnor i slutet av 2016 var inte på jobbet på grund av psykisk ohälsa. Hur kunde jag som Agil coach hamna bland dessa 49%? Jag som vet allt om retrospekt, göra en sak i taget, förväntningar och mål? Vad kan du göra för att undvika att hamna där när en stor del av en Agil coachs arbete är att coacha andra? Hur kan vi se tecken på psykisk ohälsa hos dom vi coachar? Jag berättar om mina egna erfarenheter innan jag “gick in i väggen” och drabbades av utmattningssyndrom för två år sedan och min väg tillbaka och hur det har förändrat hur jag coachar idag. "
-Karin Tenelius,Tuff Ledarskapsträning,Blixttal,Användbara lärdom från 20 år av medarbetarstyrning,Konkreta framgångsfaktorer och fallgropar utifrån min erfarenhet av att ha utvecklat ett tiotal verksamheter utan chefer till  helt medarbetarstyrda från sent 90tal till nu.
-Anna Pucar Rimhagen,Växla upp Sverige AB,Blixttal,Care & Growth - Agilt ledarskap med Tuff Omsorg,"Ofta blir ledarskapet ett hinder i en Agil organisation, med driftiga chefer som är vana att själva uppnå resultat och att leda och fördela arbete med fast hand. Care & Growth - Agilt ledarskap med Tuff Omsorg visar på vad som behövs istället för att den Agila organisationen ska få luft under vingarna!"
-Anna Pucar Rimhagen,Växla upp Sverige AB,Workshop,Vad är ett rättmätigt maktförhållande?,"Det finns många olika maktförhållanden omkring oss, som t ex föräldraskap eller mellan chef och medarbetare - vad gör ett maktförhållande rättmätigt? Workshopen bygger på: Leadership - the Care & Growth model."
+Jag presenterar en modell för att hantera testdata som kod. Mindre underhåll och lättare refaktorisering vid förändringar och utökningar av informationsmodellen och syntetisk testdata som helt eliminerar problem med personskydd och känslig data."
+
+Gregory McCabe,Stiy AB,Blixttal,Anonyma Starter Tolv Steg Program,"Vi har alla en tendens att starta saker. Då har vi plötsligt alltför många saker på gång och vi slösar bort tiden genom att jonglera aktiviteter. Här presenterar vi vårt eget tolvstegsprogram, baserat på Anonyma Alkoholister-metoder, för att hjälpa oss själva med vårt beroende av att starta aktiviteter."
+
+Isabelle Svärd,Fyndiq,Blixttal,Utmattad Agil coach ,"Nästan hälften av alla sjukskrivna kvinnor i slutet av 2016 var inte på jobbet på grund av psykisk ohälsa. Hur kunde jag som Agil coach hamna bland dessa 49%? Jag som vet allt om retrospekt, göra en sak i taget, förväntningar och mål? Vad kan du göra för att undvika att hamna där när en stor del av en Agil coachs arbete är att coacha andra? Hur kan vi se tecken på psykisk ohälsa hos dom vi coachar? Jag berättar om mina egna erfarenheter innan jag “gick in i väggen” och drabbades av utmattningssyndrom för två år sedan och min väg tillbaka och hur det har förändrat hur jag coachar idag. "
+
+Karin Tenelius,Tuff Ledarskapsträning,Blixttal,Användbara lärdom från 20 år av medarbetarstyrning,Konkreta framgångsfaktorer och fallgropar utifrån min erfarenhet av att ha utvecklat ett tiotal verksamheter utan chefer till  helt medarbetarstyrda från sent 90tal till nu.
+
+Anna Pucar Rimhagen,Växla upp Sverige AB,Blixttal,Care & Growth - Agilt ledarskap med Tuff Omsorg,"Ofta blir ledarskapet ett hinder i en Agil organisation, med driftiga chefer som är vana att själva uppnå resultat och att leda och fördela arbete med fast hand. Care & Growth - Agilt ledarskap med Tuff Omsorg visar på vad som behövs istället för att den Agila organisationen ska få luft under vingarna!"
+
+Anna Pucar Rimhagen,Växla upp Sverige AB,Workshop,Vad är ett rättmätigt maktförhållande?,"Det finns många olika maktförhållanden omkring oss, som t ex föräldraskap eller mellan chef och medarbetare - vad gör ett maktförhållande rättmätigt? Workshopen bygger på: Leadership - the Care & Growth model."
+
 Teresa Tael,SLL,Blixttal,Blixttal: Förbättra dina samtal med dina medarbetare. ,"Med inspiration från den evidensbaserade samtalsmetoden, Motiverande samtal, visar Teresa Tael hur du effektivt stärker den inre motivationen hos dina medarbetare. Hon visar kommunikationens betydelse, hur ordval och selektiv styrning styr samtalet mot individens mål. Du får även höra hur du kan mäta och utvärdera dina samtal. 
-Teresa är tränare i Motiverande Samtal, och har 20 års erfarenhet av att hjälpa människor som vill göra en förändring. Hon håller även kurser i ämnet. "
+Teresa är tränare i Motiverande Samtal, och har 20 års erfarenhet av att hjälpa människor som vill göra en förändring. Hon håller även kurser i ämnet. "
+
 Teresa Tael,SLL,Workshop,Workshop,"Med inspiration från den evidensbaserade samtalsmetoden Motiverande samtal visar Teresa Tael hur du stärker den inre motivationen hos dina medarbetare. Prova effektiva och enkla samtalstekniker och verktyg som hjälper dig att förbättra dina samtal. Fiska fram personens inre motivation genom att få medarbetaren tala sig själv till förändring. 
 Kanske tar du även med dig tips till dig själv - hur du själv ska komma igång med något du länge tänkt på - men aldrig kommer till skott….
-Teresa är tränare i Motiverande Samtal, och har 20 års erfarenhet av att hjälpa människor som vill göra en förändring. Hon håller även kurser i ämnet. "
-Anna Odhner,Inceptive,Blixttal,Agile Anonymous, Hur skapar man en uppförandekod som möjliggör självorganisering och gemensamt ansvar - AA har lyckats. Finns det något som agilister kan lära sig av. Vad är nyttan med de tolv traditionerna och vilka är Agile Anonymous 12 traditioner?
-Fredrik Lindgren och Martin Christensen,Crisp,Workshop,Team Shapes - Från kompontentteam till feature team,"En tankeväckande gruppbaserad simulering med hög igenkänningsfaktor, där du får uppleva hur en organisationsförändring förbättrar samarbete, flöde och kvalitet."
-Håkan Kleijn,Scania,Blixttal,Från förstudie-marathon till design sprint,"Eller, hur man genomför en kreativ, tvärfunktionell och effektiv workshop som levererar en prioriterade backlog"
-"Joakim Eriksson, Shahab Zahedi",Scania,Blixttal,Same same but different - Agil IT i Lean lastbilsproduktion,Vi går ut på Scanias produktionslina och tar med oss lärdommar till vår Agila IT transformation. Skillnader och likheter? 
-Karin Björkén,Spotify,Blixttal,"Treat infra as product, not as plumbing","På Spotify bygger vi team som levererar en produkt/tjänst till en känd användare. Trodde jag, tills jag började arbeta med infrastruktur..."
+Teresa är tränare i Motiverande Samtal, och har 20 års erfarenhet av att hjälpa människor som vill göra en förändring. Hon håller även kurser i ämnet. "
+
+Anna Odhner,Inceptive,Blixttal,Agile Anonymous, Hur skapar man en uppförandekod som möjliggör självorganisering och gemensamt ansvar - AA har lyckats. Finns det något som agilister kan lära sig av. Vad är nyttan med de tolv traditionerna och vilka är Agile Anonymous 12 traditioner?
+
+Fredrik Lindgren och Martin Christensen,Crisp,Workshop,Team Shapes - Från kompontentteam till feature team,"En tankeväckande gruppbaserad simulering med hög igenkänningsfaktor, där du får uppleva hur en organisationsförändring förbättrar samarbete, flöde och kvalitet."
+
+Håkan Kleijn,Scania,Blixttal,Från förstudie-marathon till design sprint,"Eller, hur man genomför en kreativ, tvärfunktionell och effektiv workshop som levererar en prioriterade backlog"
+
+"Joakim Eriksson, Shahab Zahedi",Scania,Blixttal,Same same but different - Agil IT i Lean lastbilsproduktion,Vi går ut på Scanias produktionslina och tar med oss lärdommar till vår Agila IT transformation. Skillnader och likheter? 
+
+Karin Björkén,Spotify,Blixttal,"Treat infra as product, not as plumbing","På Spotify bygger vi team som levererar en produkt/tjänst till en känd användare. Trodde jag, tills jag började arbeta med infrastruktur..."
+
 Mia Kolmodin och Per Lundholm,Dandy People,Workshop,"""Escape the feature factory and getting in to T-Shape","
 Vi frågar oss vad vi har uppnått när vi skalar Scrum om inte enbart en ännu större Feature Factory? Hur vet vi att vi inte bara levererar snabbt och effektivt, utan även affärs- eller användarnytta?
 
 Vi presenterar något som vi kallar Lean Team som ett alternativ till Scaled Agile och Scrum, där vi på riktigt kan leverera rätt innehåll snabbt med så lite waste som möjligt, ofta i ett större team som fokuserar på kompetenser och aktiviteter i stället för roller.
 
-Kom och prova på vårt specialframtagna spel för Lean Team - ""X-team Silos Game"" och upplev skillnaden och bidra i diskussionen."
-Therése Janlén Ressel,Kambi,Blixttal,Scaling culture at Kambi,"Företags som föds agila, vilka utmaningar ställs de inför när de växer? Hur behåller vi vår kultur och agila approach till utveckling trots att vi blir fler? Therése Janlén Ressel arbetar som utvecklingschef på Kambi. Hon delar med sig av kulturella samt processrelaterade utmaningar som Kambi står inför när de går framtiden till mötes som ett betydligt större bolag än när allting startade."
+Kom och prova på vårt specialframtagna spel för Lean Team - ""X-team Silos Game"" och upplev skillnaden och bidra i diskussionen."
+
+Therése Janlén Ressel,Kambi,Blixttal,Scaling culture at Kambi,"Företags som föds agila, vilka utmaningar ställs de inför när de växer? Hur behåller vi vår kultur och agila approach till utveckling trots att vi blir fler? Therése Janlén Ressel arbetar som utvecklingschef på Kambi. Hon delar med sig av kulturella samt processrelaterade utmaningar som Kambi står inför när de går framtiden till mötes som ett betydligt större bolag än när allting startade."
+
 Tobbe Gyllebring,Nepa AP,Blixttal,Att Skyffla Grus och Gräva Diken,"Det här är sagan om en spade. 
 Det är en introduktion till (Agil) Företagsekonomi. 
 Med fokus på två relativt enkla begrepp, Opex och Capex, så lär vi oss förstå inte bara vår CFO utan projektdysfunktion i stora företag och offentliga verk. 
-Vi lär oss argumentera för kvalité på ett sätt som gör VD och finance till våra största fans. "
+Vi lär oss argumentera för kvalité på ett sätt som gör VD och finance till våra största fans. "
+
 Dennis Liljedahl,Alenio,Blixttal,Sluta skriv krav,"Användandet av skrivna krav i kravspecar leder ofta till att vi inte lyckas uppfylla flera av de agila principerna och därmed levererar mindre värde. Delvis beror detta på den vanligt förekommande (men inte alltid så synliga) konflikten mellan att leverera det som beställdes kontra att leverera maximalt värde.
  
-Blixttalet kommer innehålla några konkreta exempel på hur skrivna krav leder till minskat värde, men också mer teoretiskt förklara varför text är ett så dåligt sätt att överföra kunskap. Som avslutning ges ett kort förslag på hur man kan leverera utan skrivna krav."
-Fredrik Viljesjö,Tomologic,Blixttal,Kubernetes - Produktiv Docker,Utvecklingsgruppen vill ta ansvar för driften av sina applikationer men det visar sig att det krävs mycket kunskap och tid bara för att driva sin egna servrar. Kubernetes är en lösning där gruppen kan frikoppla sig från detaljerna i serverdriften utan att förlora autonomitet. 
-Anneli Olsen,Crisp AB,Blixttal,Stating the obvious - en presentation om självklarheter,"Under mina år som UXare i olika sorters team och situationer har jag upptäckt att vissa saker som jag tycker är självklara tydligen inte är det. Det handlar om saker som vad UX är, vad teamen behöver veta om användarna och att folk inte egentligen vet vad dom vill ha. I denna presentation tänkte jag gå igenom några sådana saker så dom inte bara ses som självklara av mig längre utan också av de som lyssnar."
-Thomas Nilefalk,Responsive,Blixttal,Utifrån och in - TDD för bättre design och tidigare feedback,Tänk om man kunde testdriva fram ett helt system? Med ännu mindre design i förväg kanske designen till och med blir bättre? Och vad fattas i så fall för att det helt enkelt skall bli nästa designmetodik?
+Blixttalet kommer innehålla några konkreta exempel på hur skrivna krav leder till minskat värde, men också mer teoretiskt förklara varför text är ett så dåligt sätt att överföra kunskap. Som avslutning ges ett kort förslag på hur man kan leverera utan skrivna krav."
+
+Fredrik Viljesjö,Tomologic,Blixttal,Kubernetes - Produktiv Docker,Utvecklingsgruppen vill ta ansvar för driften av sina applikationer men det visar sig att det krävs mycket kunskap och tid bara för att driva sin egna servrar. Kubernetes är en lösning där gruppen kan frikoppla sig från detaljerna i serverdriften utan att förlora autonomitet. 
+
+Anneli Olsen,Crisp AB,Blixttal,Stating the obvious - en presentation om självklarheter,"Under mina år som UXare i olika sorters team och situationer har jag upptäckt att vissa saker som jag tycker är självklara tydligen inte är det. Det handlar om saker som vad UX är, vad teamen behöver veta om användarna och att folk inte egentligen vet vad dom vill ha. I denna presentation tänkte jag gå igenom några sådana saker så dom inte bara ses som självklara av mig längre utan också av de som lyssnar."
+
+Thomas Nilefalk,Responsive,Blixttal,Utifrån och in - TDD för bättre design och tidigare feedback,Tänk om man kunde testdriva fram ett helt system? Med ännu mindre design i förväg kanske designen till och med blir bättre? Och vad fattas i så fall för att det helt enkelt skall bli nästa designmetodik?
+
 Lennart Fridén,Agical AB,Workshop,Mobblära,"Hur känns det att som mobb utsättas för en okänd och annorlunda utvecklingsmiljö? Hur snabbt kan man tillsammans sätta sig in problemen och miljön, hitta och kommunicera idéer och lösningar?
 
 I denna workshop utforskar vi det här som en mobb med hjälp av det esoteriska multi-nod-assemblerspelet TIS-100. 
 
-Det hela inleds med en kort introduktion till mobbprogrammering och avslutas med ett kort retro kring vad vi lärt oss."
-Igor Andriushchenko,Snow Software,Blixttal,"Making DevOps in the NoOps world: grow DevOps ambassadors, not engineers","During the last years, DevOps as a concept has been inevitably sliding to so-called NoOps. In other words, automate everything and make engineers doing all Ops work. We at Snow approached DevOps from different angles and found the most efficient way of bringing the DevOps culture to the teams and building NoOps within it - by using DevOps ambassadors - educated DevOps practitioners whose goal is  to educate and to lead the way. This talk outlines our approach, shows possible pitfalls, explains how to build the culture, which tools to use, and  most importantly, prepares switching  teams to NoOps with respect to their agile way of working."
-Daniel Hilmersson,Fyndiq,Blixttal,"Frankenstein metoden - Om att blanda tankar från Scrum, Lean Startup och Google Design Sprint för app utveckling","Baserat på mina erfarenheter från både spelutveckling på King och App utveckling på Fyndiq, delar jag med mig av mina erfarenheter av att blanda olika arbetssätt, metoder och ideer från till exempel Scrum, Kanban, Lean Startup och Google Design Sprint samt mina tankar om hur detta kan stötta utvecklingsteam som jobbar med app utveckling."
+Det hela inleds med en kort introduktion till mobbprogrammering och avslutas med ett kort retro kring vad vi lärt oss."
+
+Igor Andriushchenko,Snow Software,Blixttal,"Making DevOps in the NoOps world: grow DevOps ambassadors, not engineers","During the last years, DevOps as a concept has been inevitably sliding to so-called NoOps. In other words, automate everything and make engineers doing all Ops work. We at Snow approached DevOps from different angles and found the most efficient way of bringing the DevOps culture to the teams and building NoOps within it - by using DevOps ambassadors - educated DevOps practitioners whose goal is  to educate and to lead the way. This talk outlines our approach, shows possible pitfalls, explains how to build the culture, which tools to use, and  most importantly, prepares switching  teams to NoOps with respect to their agile way of working."
+
+Daniel Hilmersson,Fyndiq,Blixttal,"Frankenstein metoden - Om att blanda tankar från Scrum, Lean Startup och Google Design Sprint för app utveckling","Baserat på mina erfarenheter från både spelutveckling på King och App utveckling på Fyndiq, delar jag med mig av mina erfarenheter av att blanda olika arbetssätt, metoder och ideer från till exempel Scrum, Kanban, Lean Startup och Google Design Sprint samt mina tankar om hur detta kan stötta utvecklingsteam som jobbar med app utveckling."
+
 Irfan Khalid,Cybercom Sweden AB,Workshop,How can agile teams drive innovations and sustain that behavior,"Innovation is key for almost every firm's survival and growth and is increasingly being seen as part of everyone’s responsibility rather than just dedicated innovation teams. But it can be a challenge to encourage people to be innovative without a clear WoW and conducive environment.
  
 We will share how we solved these challenges at our Agile development sites by introducing an ""Innovation Model"" that focuses on,
@@ -138,7 +199,8 @@ This has allowed us to raise innovation awareness, generate useful ideas and imp
  
 Workshop time: 30 mins 
 Language: English
-"
+"
+
 Mikael Tikas och Frida Norre,Avanza,Blixttal,"Två produktägare, två team, en strategi och ett mål","I vårt blixttal kommer vi ta upp hur det praktiskt går till med delat produktägarskap för Avanzas mobilappar.
 
 Vi kommer lyfta för- och nackdelar med delat produktägarskap men framförallt gå igenom hur delat produktägarskap möjliggör:
@@ -146,18 +208,27 @@ Vi kommer lyfta för- och nackdelar med delat produktägarskap men framförallt 
 •    Att som PO kunna vara med i hela produktutvecklingsprocessen – från övergripande strategi till färdig leverans av en produkt
 •    Att få mer tid för kravarbetet tillsammans i våra tvärfunktionella team
 •    Att ta tillvara på våra respektive kompetenser som produktägare
-•    Att vara mer närvarande i det operativa teamarbetet"
-Marcus Ahnve,Valtech,Blixttal,"Det främsta måttet på framsteg i mjukvarutveckling är ... ja, vad är det?","Det spelar faktiskti inte så stor roll vilken metod man använder för systemutveckling om man inte ändrar hur man mäter framgång. Jag pratar lite om hur agila metoder traditionellt har hanterat projekt och ""build"", och hur man får in ""measure"" och ""learn"" för att få en lyckad produkt. "
-Bodil Björnberg,Inceptive,Blixttal,Oemotståndligt motstånd,"Motstånd till förändring skulle inte vara så stor grej, om det inte vore så jobbigt. Så varför känner jag som förändringsledare så stort motstånd till mostånd?"
-Bodil Björnberg,Inceptive,Workshop,Förändringens fyra rum,Förändringens fyra rum är en modell för att förstå förändring och hur vi människor påverkas av en förändring. Jag tycker själv den är användbar för att hjälpa människor att öppna upp och prata om förändring. Den är enkel och kul att använda i en workshop med ett eller flera team när man står inför eller är mitt i en förändring. 
+•    Att vara mer närvarande i det operativa teamarbetet"
+
+Marcus Ahnve,Valtech,Blixttal,"Det främsta måttet på framsteg i mjukvarutveckling är ... ja, vad är det?","Det spelar faktiskti inte så stor roll vilken metod man använder för systemutveckling om man inte ändrar hur man mäter framgång. Jag pratar lite om hur agila metoder traditionellt har hanterat projekt och ""build"", och hur man får in ""measure"" och ""learn"" för att få en lyckad produkt. "
+
+Bodil Björnberg,Inceptive,Blixttal,Oemotståndligt motstånd,"Motstånd till förändring skulle inte vara så stor grej, om det inte vore så jobbigt. Så varför känner jag som förändringsledare så stort motstånd till mostånd?"
+
+Bodil Björnberg,Inceptive,Workshop,Förändringens fyra rum,Förändringens fyra rum är en modell för att förstå förändring och hur vi människor påverkas av en förändring. Jag tycker själv den är användbar för att hjälpa människor att öppna upp och prata om förändring. Den är enkel och kul att använda i en workshop med ett eller flera team när man står inför eller är mitt i en förändring. 
+
 Jonas Hermansson,Inceptive,Workshop,Lego Serious Play,"Vad är egentligen Lego Serious Play? En fungerande faciliteringsteknik eller bara lek?
 Lego Serious Play är en mycket beprövad workshopmetod som låter oss bortse från trampade tår, prestige och politik och istället fokusera på våra styrkor och unika egenskaper. Genom att skapa 3-dimensionella modeller släpper vi fram kreativiteten och alla kommer till tals. Allt detta medan vi har fantastiskt roligt! Fokus är på det kreativa så vi kan garantera en Power Point fri upplevelse. 
 
 Lego Serious Play kan bland annat användas för att facilitera workshops med syfte att höja teamets självkänsla, effektivitet och dess förmåga att samarbeta, både inom teamet och i hela organisationen. En viktig del av metoden är att sätta gemensamma värderingar och värdegrund.
 
-På Agila Sverige vill bjuda in till en workshop där vi förklarar vad Lego Serious Play är samtidigt som vi provar på metoden."
-Nina Garpedal,INSTANCE AB,Workshop,Lär dig facilitera fler Agila mötesmetoder,"En mötesmetod är som ett recept på hur man stödjer en viss typ av diskussion.  För att stimulera kreativitet, skapa engagemang och få bra resultat av sina möten,  finns det många olika sorters metoder man kan få stöd av. Därför är det alltid bra att fylla på sin verktygslåda med nya metoder. Denna workshoptimme bjuder INSTANCE diplomerade facilitator på några av sina agila mötesfavoriter som hon samlat på sig genom åren. Varmt välkommen!"
-Andreas Tael,King,Blixttal,Botten upp Ledarskapsutvärdering,"En genomgång av ett experiment som vi gjort för att utvärdera och förbättra ledarskapet på King. Alla ger samtliga chefer nivåspecifik feedback uppåt i hierarkin, vilket ger varje chef en unik möjlighet att förbättra sin förmåga att leda både på bredden och i valda nivåer."
-Michael Göthe,Crisp,Blixttal,Agilt ledarskap - Strategier för att lyckas i en komplex värld.,Vi lever i en ständigt ökande komplex värld. Förändringstakten är exponentiell och fortsätter att öka. Våra traditionella organisationer är inte byggda för att hantera denna nya komplexitet. Faktum är att dess konstruktion förvärrar problemen. Vad kan vi göra för att bryta denna onda cirkel? Detta ställer nya krav på ledarskapet för att lyckas i en agil miljö. Du kommer att få förslag på tre strategier att hantera denna ökande komplexitet.
-Jagannath Tammeleht,Snow Software AB,Blixttal,Scrum & Kanban Basic,"Det agila medvetenheten har varit häftig att följa, det ser vi inte minst på konferenser som Agila Sverige. Men ute i organisation så kämpar man fortfarande på med att få enklare team att fungera ihop. Istället för att titta på nästa grej så tycker jag det är dags att göra en tillbakablick och prata om grundprinciper och metoder igen."
+På Agila Sverige vill bjuda in till en workshop där vi förklarar vad Lego Serious Play är samtidigt som vi provar på metoden."
+
+Nina Garpedal,INSTANCE AB,Workshop,Lär dig facilitera fler Agila mötesmetoder,"En mötesmetod är som ett recept på hur man stödjer en viss typ av diskussion.  För att stimulera kreativitet, skapa engagemang och få bra resultat av sina möten,  finns det många olika sorters metoder man kan få stöd av. Därför är det alltid bra att fylla på sin verktygslåda med nya metoder. Denna workshoptimme bjuder INSTANCE diplomerade facilitator på några av sina agila mötesfavoriter som hon samlat på sig genom åren. Varmt välkommen!"
+
+Andreas Tael,King,Blixttal,Botten upp Ledarskapsutvärdering,"En genomgång av ett experiment som vi gjort för att utvärdera och förbättra ledarskapet på King. Alla ger samtliga chefer nivåspecifik feedback uppåt i hierarkin, vilket ger varje chef en unik möjlighet att förbättra sin förmåga att leda både på bredden och i valda nivåer."
+
+Michael Göthe,Crisp,Blixttal,Agilt ledarskap - Strategier för att lyckas i en komplex värld.,Vi lever i en ständigt ökande komplex värld. Förändringstakten är exponentiell och fortsätter att öka. Våra traditionella organisationer är inte byggda för att hantera denna nya komplexitet. Faktum är att dess konstruktion förvärrar problemen. Vad kan vi göra för att bryta denna onda cirkel? Detta ställer nya krav på ledarskapet för att lyckas i en agil miljö. Du kommer att få förslag på tre strategier att hantera denna ökande komplexitet.
+
+Jagannath Tammeleht,Snow Software AB,Blixttal,Scrum & Kanban Basic,"Det agila medvetenheten har varit häftig att följa, det ser vi inte minst på konferenser som Agila Sverige. Men ute i organisation så kämpar man fortfarande på med att få enklare team att fungera ihop. Istället för att titta på nästa grej så tycker jag det är dags att göra en tillbakablick och prata om grundprinciper och metoder igen."
+
 Mattias Karlsson,King,Blixttal,"Requirements in Candy Crush, a journey from backlog to missions","How to we work in Candy Crush Saga, the worlds most popular casual game. This will be a short story from how we scaled from a small team to more the 90 people in 10 teams. The focus would be on our latest experiment when we moved from team backlog via a central backlog to mission. Long journey, many mistakes and still lot of learnings to do."
